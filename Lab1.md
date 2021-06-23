@@ -88,7 +88,13 @@
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image15.jpg)<br>
 
 - 當安裝完成後，請於電子文件探索匯出工具中，輸入匯出金鑰與儲存的位置，匯出金鑰可於方才的「下載結果」頁面取得 <br>
-
+  
+  > **Tips. 請務必留意，由於下載過程中的網路活動過高，所以建議將搜尋結果下載至本機電腦上的內部磁片磁碟機上的某個位置。
+  > 並請留意以下準則已取得最佳體驗 -   
+  > - 不要將搜尋結果下載至 UNC 路徑、對應網路磁碟機、外部 USB 磁片磁碟機或同步的商務用 OneDrive 帳戶。
+  > - 針對下載搜尋結果的資料夾停用防病毒掃描。
+  > - 將搜尋結果下載至不同的資料夾，以進行並行下載工作。** 
+  
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image16.jpg)<br>
 
 - 當下載完成後，即可透過如Outlook等工具執行匯入工具進行稽核或查看 <br>
