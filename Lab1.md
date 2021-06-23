@@ -47,11 +47,13 @@
 
 - 進入最後一個頁面後，將總整您剛剛輸入的搜尋內容任務項目，確認無誤後請點選「提交」，系統便開始執行搜尋任務 <br>
 
-  > ** Tips. 搜尋任務執行的時間會依據搜尋範圍與關聯的資料量大小，可能在數分鐘至數小時內才會完成，完成後操作人員將收到完成的提示郵件。
+  > ** Tips. 搜尋任務執行的時間會依據搜尋範圍與關聯的資料量大小，可能在數分鐘至數小時內才會完成，完成後將收到完成的提示郵件。
 
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image8.jpg)<br>  
 
 - 搜尋任務建立完成後，等待系統搜尋完畢即可開始執行搜尋結果匯出 <br>
+  
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image9.jpg)<br>  
   
 ### 匯出結果
 
