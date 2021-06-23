@@ -98,5 +98,9 @@
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image16.jpg)<br>
 
 - 當下載完成後，即可透過如Outlook等工具執行匯入工具進行稽核或查看 <br>
-
+  
+  > **Tips. 請留意下載後的檔案將儲存於您指定的位置資料夾中的 Exchange\ 之中，檔案名稱將預設命名為搜尋的信箱。<br>
+  
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image17.jpg)<br>
+  
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image18.jpg)<br>
