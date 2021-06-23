@@ -6,7 +6,7 @@
   
   > **Tips. 執行內容搜尋請使用Microsoft Edge進行，以確保匯出結果得以正常運作 (eDiscovery Tool)** <br>
   
-  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image0.jpg =250x250)<br>
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image0.jpg | width=100)<br>
   
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image1.jpg)<br>
   
