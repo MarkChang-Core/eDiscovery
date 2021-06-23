@@ -57,6 +57,40 @@
   
 ### 匯出結果
 
+- 在搜尋任務執行完成後，將可於「內容搜尋」的頁面中找到該項任務，點擊後將可查看搜尋任務執行狀況，若執行已完成，則可開始匯出 <br>
+
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image10.jpg)<br>  
+  
+- 點選搜尋任務後，於「動作」中展開任務操作內容，並點選「匯出結果」 <br>
+
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image11.jpg)<br>  
+
+- 在「匯出結果」的彈跳視窗中，可選擇書入選項、匯出選項等，此處可依據需求選定匯出選項，選定完成後點選「匯出」 <br>
+  
+  > **Tips. 點選匯出後，通常會需要等待數秒鐘的系統響應，此處請勿重新整理頁面以免操作失敗 ** <br>
+  
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image12.jpg)<br>  
 
 ### 下載結果(PST)
 
+- 在匯出結果完成後，即可到「Export」頁面下載匯出的結果，點擊匯出項目後，選擇「下載結果」 <br>
+  
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image13.jpg)<br>  
+  
+- 當執行「下載結果」後，系統將引導您安裝 eDiscovery Export Tool，請於跳轉頁面中點選「開啟」 <br>
+
+  > **Tips. 由於匯出資料屬於高度機敏性資料，因此eDiscovery Export Tool將透過更安全的連線方式下載
+
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image14.jpg)<br>
+  
+- 點選「開啟」後，將提示您執行安裝，請點選「安裝」 <br>
+
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image15.jpg)<br>
+
+- 當安裝完成後，請於電子文件探索匯出工具中，輸入匯出金鑰與儲存的位置，匯出金鑰可於方才的「下載結果」頁面取得 <br>
+
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image16.jpg)<br>
+
+- 當下載完成後，即可透過如Outlook等工具執行匯入工具進行稽核或查看 <br>
+
+  
