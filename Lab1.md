@@ -6,6 +6,8 @@
   
   > **Tips. 執行內容搜尋請使用Microsoft Edge進行，以確保匯出結果得以正常運作 (eDiscovery Tool)** <br>
   
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image0.jpg)<br>
+  
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image1.jpg)<br>
   
 - 在執行內容搜尋功能之前，請先確認操作人員是否已具備正確的權限，請前往「權限」功能中查看<br>
