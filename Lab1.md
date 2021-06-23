@@ -93,4 +93,4 @@
 
 - 當下載完成後，即可透過如Outlook等工具執行匯入工具進行稽核或查看 <br>
 
-  
+  ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image17.jpg)<br>
