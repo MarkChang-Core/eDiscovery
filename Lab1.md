@@ -2,7 +2,7 @@
 
 ### 開啟合規性中心並確認權限
 
-- 內容搜尋這樣功能位於Microsoft 365 合規性中心之中，請前往該位置，或透過連結(https://compliance.microsoft.com/)登入<br>
+- 內容搜尋這樣功能位於Microsoft 365 合規性中心之中，請前往該位置，或透過連結(https://compliance.microsoft.com/) 登入<br>
   
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image1.jpg)<br>
   
@@ -10,7 +10,7 @@
 
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image2.jpg)<br>
 
-- 進入「權限」之後，請尋找「eDiscovery Manager」，勾選後即可項下滾動查看到「電子文件探索系統管理員」，若不具備權限請進行編輯指派<br>
+- 進入「權限」後，尋找「eDiscovery Manager」，勾選後即可項下滾動查看到「電子文件探索系統管理員」，若無權限請進行編輯指派<br>
 
   ![GITHUB](https://github.com/MarkChang-Core/eDiscovery/blob/main/Image1/image3.jpg)<br>  
   
